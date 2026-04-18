@@ -1,4 +1,4 @@
-# Font-Thai-for-Retroarch
+Font Thai for Retroarch
 stock+thai system font retroarch
 
 โหลดไฟล์ฟอนต์ mplus-1p-regular.ttf
